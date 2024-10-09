@@ -1,5 +1,5 @@
 # docker-jmeter
-How to set up jmeter using docker to implement load test to your server
+How to set up jmeter using docker to implement load test on your server and evaluate its performance
 
 # [jmeter-scripts](jmeter-scripts) Folder
 This is the folder to store jmx file (You can create script.jmx file by using jmeter desktop)
